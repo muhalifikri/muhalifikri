@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Hi, I’m Ali Fikri — highly interested in building a career in Data Analytics and Data Science. I’m passionate about data, technology, and continuous learning, and I enjoy working on projects that transform data into meaningful insights and support better decision-making.
+
+I have experience using tools such as Python, SQL, Tableau, and Looker Studio, and I’m continuously developing my skills in data analysis and machine learning through hands-on projects and practical experience. With a background in Electrical Engineering and experience in the engineering field, I also bring strong analytical and problem-solving skills into my work
 <!--
 **muhalifikri/muhalifikri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
