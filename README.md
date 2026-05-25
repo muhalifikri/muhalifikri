@@ -33,7 +33,7 @@ I have experience using tools such as Python, SQL, Tableau, and Looker Studio, a
 - **Hacktiv8 Data Science Bootcamp**  
 Core Skills Developed: *Data Wrangling, Visualization (Tableau), Statistical Analysis, Machine Learning, Deep Learning, NLP, PostgreSQL, and Feature Engineering*
 
-- **Fullstack Intensive Bootcamp Data Analyst**   
+- **MySkill Fullstack Intensive Bootcamp Data Analyst**   
 Core Skills Developed: *Data Wrangling, Visualization (Looker Studio), Statistical Analysis, MySQL*
 
 
